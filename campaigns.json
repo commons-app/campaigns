@@ -16,6 +16,20 @@
 			"startDate": "2018-05-01",
 			"endDate": "2018-06-30",
 			"link": "http://wikilovesearth.org/"
+		},
+		{
+			"title": "Wiki Loves Monuments",
+			"description": "Wiki Loves Monuments",
+			"startDate": "2019-09-01",
+			"endDate": "2019-09-30",
+			"link": "https://www.wikilovesmonuments.org/contest/"
+		},
+		{
+			"title": "Wiki Loves Earth",
+			"description": "Wiki Loves Earth",
+			"startDate": "2019-05-01",
+			"endDate": "2019-06-30",
+			"link": "http://wikilovesearth.org/"
 		}
 	]
 }
