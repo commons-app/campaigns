@@ -1,0 +1,14 @@
+{
+	"config": {
+		"showOnlyLiveCampaigns": false,
+		"sortBy": "title/startDate/endDate"
+	},
+	"campaigns": [{
+			"title": "Example Beta Campaign",
+			"description": "Example Beta Campaign Description",
+			"startDate": "2019-01-01",
+			"endDate": "2100-01-01",
+			"link": "https://github.com/commons-app/apps-android-commons/issues/2793"
+		}
+	]
+}
