@@ -1,5 +1,4 @@
 install:
-  - npm i -g jsonlint
+  - npm i -g ajv-cli
 script:
-  - echo "Runing JSONLint..."
-  - jsonlint campaigns.json -q && echo "JSONLint Passed"
+  - ajv validate --errors=text -s schema.json -d campaigns.json
