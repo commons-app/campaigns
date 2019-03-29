@@ -1,3 +1,4 @@
+language: minimal
 install:
   - npm i -g ajv-cli
 script:
