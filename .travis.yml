@@ -1,0 +1,5 @@
+install:
+  - npm i -g jsonlint
+script:
+  - echo "Runing JSONLint..."
+  - jsonlint campaigns.json -q && echo "JSONLint Passed"
