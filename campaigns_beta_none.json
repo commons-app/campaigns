@@ -1,0 +1,7 @@
+{
+	"config": {
+		"showOnlyLiveCampaigns": false,
+		"sortBy": "title/startDate/endDate"
+	},
+	"campaigns": []
+}

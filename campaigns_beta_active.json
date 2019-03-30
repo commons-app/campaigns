@@ -1,0 +1,14 @@
+{
+	"config": {
+		"showOnlyLiveCampaigns": false,
+		"sortBy": "title/startDate/endDate"
+	},
+	"campaigns": [{
+			"title": "Example Active Beta Campaign",
+			"description": "Example Active Beta Campaign Description",
+			"startDate": "2003-06-20",
+			"endDate": "2100-01-01",
+			"link": "https://github.com/commons-app/campaigns/pull/5"
+		}
+	]
+}
