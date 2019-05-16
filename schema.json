@@ -1,0 +1,64 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"$id": "https://github.com/commons-app/campaigns/blob/master/schema.json",
+	"type": "object",
+	"title": "Campaign information",
+	"required": [
+		"campaigns"
+	],
+	"properties": {
+		"config": {
+			"type": "object"
+		},
+		"campaigns": {
+			"type": "array",
+			"title": "List of campaigns",
+			"items": {
+				"type": "object",
+				"title": "Campaign",
+				"required": [
+					"title",
+					"description",
+					"startDate",
+					"endDate",
+					"link"
+				],
+				"properties": {
+					"title": {
+						"type": "string",
+						"examples": [
+							"Wiki Loves Monuments"
+						]
+					},
+					"description": {
+						"type": "string",
+						"examples": [
+							"Wiki Loves Monuments is an international photo contest for monuments, organized by Wikimedia"
+						]
+					},
+					"startDate": {
+						"type": "string",
+						"examples": [
+							"2018-09-01"
+						],
+						"pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+					},
+					"endDate": {
+						"type": "string",
+						"examples": [
+							"2018-09-30"
+						],
+						"pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+					},
+					"link": {
+						"type": "string",
+						"examples": [
+							"https://www.wikilovesmonuments.org/contest/"
+						],
+						"pattern": "^https?:\/\/"
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,7 @@
+language: generic
+install: npm i -g ajv-cli
+script:
+- ajv validate --errors=text -s schema.json -d campaigns.json
+- ajv validate --errors=text -s schema.json -d campaigns_beta_active.json
+- ajv validate --errors=text -s schema.json -d campaigns_beta_inactive.json
+- ajv validate --errors=text -s schema.json -d campaigns_beta_none.json
