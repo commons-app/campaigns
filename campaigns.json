@@ -3,20 +3,7 @@
 		"showOnlyLiveCampaigns": false,
 		"sortBy": "title/startDate/endDate"
 	},
-	"campaigns": [{
-			"title": "Wiki Loves Monuments",
-			"description": "Wiki Loves Monuments",
-			"startDate": "2018-09-01",
-			"endDate": "2018-09-30",
-			"link": "https://www.wikilovesmonuments.org/contest/"
-		},
-		{
-			"title": "Wiki Loves Earth",
-			"description": "Wiki Loves Earth",
-			"startDate": "2018-05-01",
-			"endDate": "2018-06-30",
-			"link": "http://wikilovesearth.org/"
-		},
+	"campaigns": [
 		{
 			"title": "Wiki Loves Monuments",
 			"description": "Wiki Loves Monuments",
