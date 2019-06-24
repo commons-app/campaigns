@@ -3,7 +3,8 @@
 		"showOnlyLiveCampaigns": false,
 		"sortBy": "title/startDate/endDate"
 	},
-	"campaigns": [{
+	"campaigns": [
+		{
 			"title": "Wiki Loves Monuments",
 			"description": "Wiki Loves Monuments",
 			"startDate": "2018-09-01",
@@ -32,18 +33,11 @@
 			"link": "http://wikilovesearth.org/"
 		},
 		{
-			"title": "Picture of the Year 2018 (Round 2)",
-			"description": "Help select the 2018 Picture of the Year.",
-			"startDate": "2019-03-01",
-			"endDate": "2019-03-17",
-			"link": "https://commons.wikimedia.org/wiki/Commons:Picture_of_the_Year/2018/R2/Gallery"
-		},
-		{
-			"title": "Wiki Loves Love 2019",
-			"description": "Wiki Loves Love 2019",
-			"startDate": "2019-02-01",
-			"endDate": "2019-02-28",
-			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Love_2019"
+			"title": "Wiki Loves Pride",
+			"description": "Wiki Loves Pride",
+			"startDate": "2019-06-19",
+			"endDate": "2019-07-10",
+			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Pride_2019"
 		}
 	]
 }
