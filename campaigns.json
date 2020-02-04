@@ -10,6 +10,27 @@
 			"startDate": "2020-02-01",
 			"endDate": "2020-02-29",
 			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Folklore"
+		},
+		{
+			"title": "Wiki Loves Monuments",
+			"description": "The Wikipedia photo contest around cultural heritage",
+			"startDate": "2020-09-01",
+			"endDate": "2020-09-30",
+			"link": "https://www.wikilovesmonuments.org/"
+		},
+		{
+			"title": "Wiki Loves Pride",
+			"description": "Global campaign to expand and improve LGBT+ content",
+			"startDate": "2020-06-19",
+			"endDate": "2020-07-31",
+			"link": "https://en.wikipedia.org/wiki/Wikipedia:Wiki_Loves_Pride"
+		},
+		{
+			"title": "Wiki Loves Earth",
+			"description": "International photo contest of nature protected areas",
+			"startDate": "2020-05-01",
+			"endDate": "2020-07-31",
+			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Earth_2020"
 		}
 	]
 }
