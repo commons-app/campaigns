@@ -33,8 +33,15 @@
 			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Earth_2020"
 		},
 		{
+			"title": "Wiki Loves Africa",
+			"description": "2020 Theme: \"Africa on the Move or Transport\"",
+			"startDate": "2020-02-15",
+			"endDate": "2020-03-31",
+			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Africa_2020"
+		},
+		{
 			"title": "Wikipedia Pages Wanting Photos",
-			"description": "Wikipedians add photos to Wikipedia articles lacking images",
+			"description": "Global campaign to add photos to Wikipedia articles that lack images",
 			"startDate": "2020-07-01",
 			"endDate": "2020-08-31",
 			"link": "https://meta.wikimedia.org/wiki/Wikipedia_Pages_Wanting_Photos"
