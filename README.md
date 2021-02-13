@@ -1,8 +1,8 @@
 # Commons campaigns
 
-Stores data about Commons campaigns such as Wiki Loves Monuments.
+The `campaigns.json` file contains information (title, description, dates, link) about Commons campaigns such as Wiki Loves Monuments.
 
-Campaigns will be displayed by the [Commons Android app](https://github.com/commons-app/apps-android-commons/) using this information.
+Campaigns will be advertised in the [Commons Android app](https://github.com/commons-app/apps-android-commons/) using this information.
 
 All campaigns found [here](https://commons.wikimedia.org/wiki/Category:Photography_competitions) are eligible.
 
