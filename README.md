@@ -4,6 +4,8 @@ Stores data about Commons campaigns such as Wiki Loves Monuments.
 
 Campaigns will be displayed by the [Commons Android app](https://github.com/commons-app/apps-android-commons/) using this information.
 
+All campaigns found [here](https://commons.wikimedia.org/wiki/Category:Photography_competitions) are eligible.
+
 ## Adding or modifying a campaign
 
 If a campaign is not documented yet, or to modify the dates or URL, please:
