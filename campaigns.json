@@ -45,6 +45,13 @@
 			"startDate": "2020-07-01",
 			"endDate": "2020-08-31",
 			"link": "https://meta.wikimedia.org/wiki/Wikipedia_Pages_Wanting_Photos"
+		},
+		{
+			"title": "Wiki Loves Folklore",
+			"description": "International photo contest to document folk cultures",
+			"startDate": "2021-02-01",
+			"endDate": "2021-02-28",
+			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Folklore_2021"
 		}
 	]
 }
