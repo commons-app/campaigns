@@ -6,7 +6,7 @@
 	"campaigns": [
 		{
 			"title": "Wiki Loves Folklore",
-			"description": "The 2020 iteration of Wiki Loves Love",
+			"description": "The 2020 iteration of Wiki Loves Folklore",
 			"startDate": "2020-02-01",
 			"endDate": "2020-02-29",
 			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Folklore"
@@ -42,9 +42,9 @@
 		{
 			"title": "Wikipedia Pages Wanting Photos",
 			"description": "Global campaign to add photos to Wikipedia articles that lack images",
-			"startDate": "2020-07-01",
-			"endDate": "2020-08-31",
-			"link": "https://meta.wikimedia.org/wiki/Wikipedia_Pages_Wanting_Photos"
+			"startDate": "2021-07-01",
+			"endDate": "2021-08-31",
+			"link": "https://meta.wikimedia.org/wiki/Wikipedia_Pages_Wanting_Photos_2021"
 		},
 		{
 			"title": "Wiki Loves Folklore",
