@@ -5,13 +5,6 @@
 	},
 	"campaigns": [
 		{
-			"title": "Wiki Loves Folklore",
-			"description": "The 2020 iteration of Wiki Loves Folklore",
-			"startDate": "2020-02-01",
-			"endDate": "2020-02-29",
-			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Folklore"
-		},
-		{
 			"title": "Wiki Loves Monuments",
 			"description": "A public photo competition around cultural heritage monuments in various countries",
 			"startDate": "2021-09-01",
@@ -49,9 +42,9 @@
 		{
 			"title": "Wiki Loves Folklore",
 			"description": "International photo contest to document folk cultures",
-			"startDate": "2021-02-01",
-			"endDate": "2021-02-28",
-			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Folklore_2021"
+			"startDate": "2022-02-01",
+			"endDate": "2022-02-28",
+			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Folklore_2022"
 		},
 		{
 			"title": "Share Your Struggle 2021 in India",
