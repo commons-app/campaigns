@@ -1,0 +1,28 @@
+name: schema check
+
+on:
+  push
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout ${{ github.sha }}
+        uses: actions/checkout@v3
+
+      - name: Install Ajv CLI
+        run: npm i -g ajv-cli
+
+      - name: Validate campaigns.json
+        run: ajv validate --errors=text -s schema.json -d campaigns.json
+
+      - name: Validate campaigns_beta_active.json
+        run: ajv validate --errors=text -s schema.json -d campaigns_beta_active.json
+
+      - name: Validate campaigns_beta_inactive.json
+        run: ajv validate --errors=text -s schema.json -d campaigns_beta_inactive.json
+
+      - name: Validate campaigns_beta_none.json
+        run: ajv validate --errors=text -s schema.json -d campaigns_beta_none.json
