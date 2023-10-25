@@ -6,10 +6,10 @@
 	"campaigns": [
 		{
 			"title": "Wiki Loves Monuments",
-			"description": "A public photo competition around cultural heritage monuments in various countries",
+			"description": "Photo competition around cultural heritage monuments, exact dates vary by country",
 			"startDate": "2021-09-01",
-			"endDate": "2021-09-30",
-			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2021"
+			"endDate": "2023-10-30",
+			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2023"
 		},
 		{
 			"title": "Wiki Loves Pride",
