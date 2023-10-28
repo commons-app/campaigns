@@ -8,29 +8,22 @@
 			"title": "Wiki Loves Monuments",
 			"description": "Photo competition around cultural heritage monuments, exact dates vary by country",
 			"startDate": "2023-09-01",
-			"endDate": "2023-10-31",
+			"endDate": "2023-10-30",
 			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2023"
-		},
-		{
-			"title": "Wiki Loves Pride",
-			"description": "Global campaign to expand and improve LGBT+ content",
-			"startDate": "2020-06-19",
-			"endDate": "2020-07-31",
-			"link": "https://en.wikipedia.org/wiki/Wikipedia:Wiki_Loves_Pride"
 		},
 		{
 			"title": "Wiki Loves Earth",
 			"description": "International photo contest of nature protected areas",
-			"startDate": "2020-05-01",
-			"endDate": "2020-07-31",
-			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Earth_2020"
+			"startDate": "2024-05-01",
+			"endDate": "2024-07-31",
+			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Earth_2023"
 		},
 		{
 			"title": "Wiki Loves Africa",
-			"description": "2020 Theme: \"Africa on the Move or Transport\"",
-			"startDate": "2020-02-15",
-			"endDate": "2020-03-31",
-			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Africa_2020"
+			"description": "Help improve Africa pictures coverage",
+			"startDate": "2024-02-15",
+			"endDate": "2024-03-31",
+			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Africa_2023"
 		},
 		{
 			"title": "Wikipedia Pages Wanting Photos",
