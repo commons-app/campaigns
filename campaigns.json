@@ -7,9 +7,16 @@
 		{
 			"title": "Wiki Loves Monuments",
 			"description": "Photo competition around cultural heritage monuments, exact dates vary by country",
-			"startDate": "2023-09-01",
-			"endDate": "2023-10-30",
-			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2023"
+			"startDate": "2024-09-01",
+			"endDate": "2024-09-30",
+			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2024"
+		},
+		{
+			"title": "Wiki Loves Monuments (US, UAE and Canada)",
+			"description": "Photo competition around cultural heritage monuments, exact dates vary by country",
+			"startDate": "2024-10-01",
+			"endDate": "2024-10-31",
+			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2024"
 		},
 		{
 			"title": "Wiki Loves Earth",
@@ -28,15 +35,15 @@
 		{
 			"title": "Wikipedia Pages Wanting Photos",
 			"description": "Global campaign to add photos to Wikipedia articles that lack images",
-			"startDate": "2021-07-01",
-			"endDate": "2021-08-31",
-			"link": "https://meta.wikimedia.org/wiki/Wikipedia_Pages_Wanting_Photos_2021"
+			"startDate": "2024-07-01",
+			"endDate": "2024-08-31",
+			"link": "https://meta.wikimedia.org/wiki/Wikipedia_Pages_Wanting_Photos_2024"
 		},
 		{
 			"title": "Wiki Loves Folklore",
 			"description": "International photo contest to document folk cultures",
 			"startDate": "2024-02-01",
-			"endDate": "2022-03-31",
+			"endDate": "2024-03-31",
 			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Folklore_2024"
 		},
 		{
