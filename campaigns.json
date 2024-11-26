@@ -5,6 +5,13 @@
 	},
 	"campaigns": [
 		{
+			"title": "Wiki Loves Birds India",
+			"description": "Photo competition dedicated to celebrating and documenting the remarkable avian biodiversity across India.",
+			"startDate": "2024-11-25",
+			"endDate": "2024-12-25",
+			"link": "https://commons.m.wikimedia.org/wiki/Commons:Wiki_Loves_Birds_India_2024"
+		},
+		{
 			"title": "Wiki Loves Monuments",
 			"description": "Photo competition around cultural heritage monuments, exact dates vary by country",
 			"startDate": "2024-09-01",
