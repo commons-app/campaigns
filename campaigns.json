@@ -73,6 +73,54 @@
 			"startDate": "2025-06-01",
 			"endDate": "2025-07-31",
 			"link": "https://commons.m.wikimedia.org/wiki/Commons:Wiki_Loves_Earth_2025_in_India"
+		},
+		{
+			"title": "Wiki Loves Monuments 2025 in India",
+			"description": "Photo contest to capture monuments in India",
+			"startDate": "2025-09-01",
+			"endDate": "2025-09-30",
+			"link": "https://commons.m.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2025_in_India"
+		}
+	]
+}			"description": "International photo contest of nature protected areas",
+			"startDate": "2024-05-01",
+			"endDate": "2024-07-31",
+			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Earth_2024"
+		},
+		{
+			"title": "Wiki Loves Africa",
+			"description": "Help improve Africa pictures coverage",
+			"startDate": "2025-03-01",
+			"endDate": "2025-04-30",
+			"link": "https://commons.m.wikimedia.org/wiki/Commons:Wiki_Loves_Africa_2025"
+		},
+		{
+			"title": "Wikipedia Pages Wanting Photos",
+			"description": "Global campaign to add photos to Wikipedia articles that lack images",
+			"startDate": "2024-07-01",
+			"endDate": "2024-08-31",
+			"link": "https://meta.wikimedia.org/wiki/Wikipedia_Pages_Wanting_Photos_2024"
+		},
+		{
+			"title": "Wiki Loves Folklore",
+			"description": "International photo contest to document folk cultures",
+			"startDate": "2025-02-01",
+			"endDate": "2025-03-31",
+			"link": "https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Folklore_2025"
+		},
+		{
+			"title": "Share Your Struggle 2021 in India",
+			"description": "Photo contest to improve coverage of various struggles. Scope limited to India.",
+			"startDate": "2021-08-15",
+			"endDate": "2021-08-31",
+			"link": "https://commons.wikimedia.org/wiki/Commons:Share_Your_Struggle_2021"
+		},
+		{
+			"title": "Wiki Loves Earth 2025 in India",
+			"description": "Photo contest to capture natural heritage sites in India",
+			"startDate": "2025-06-01",
+			"endDate": "2025-07-31",
+			"link": "https://commons.m.wikimedia.org/wiki/Commons:Wiki_Loves_Earth_2025_in_India"
 		}
 	]
 }
